@@ -541,3 +541,5 @@ video.bgv { position: absolute; inset: 0; width: 100%; height: 100%; object-fit:
 .ttframe { min-height: 420px; }
 .ttframe:has(iframe) { min-height: 0; background: transparent; border: 0; }
 @media (hover: none) { .reel-frame { box-shadow: 0 20px 50px -24px rgba(228,20,44,.35); } }
+
+#plates .media { padding-top: 64px; }
